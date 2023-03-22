@@ -1,4 +1,19 @@
-### Hi there 👋
+# Hi! 👋 I'm Nicolas! ✨
+
+## Architect 👷‍♂️ and <i>(soon)</i> Programmer Analyst 👨‍💻
+
+### From 📍 Montevideo, Uruguay
+
+I'm passionate about:
+* 🏛️ arquitecture
+* 🧪 technology
+* 🖌️ design
+* 🌎 travel
+* 🍷 wine
+* 🎲 board games
+* 📖 books
+
+#### visit my web [nicolasf.uy](https://nicolasf.uy)
 
 <!--
 **n1colasf/n1colasf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
