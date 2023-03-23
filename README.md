@@ -8,6 +8,7 @@ I'm passionate about:
 - 🏛️ architecture                           
 - 🧪 technology                             
 - 🖌️ design
+- 🖼️ art
 - 🌎 travel
 - 🍷 wine
 - 📖 books
