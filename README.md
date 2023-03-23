@@ -5,7 +5,7 @@
 
 I'm passionate about:
 
-- 🏛️ arquitecture                           
+- 🏛️ architecture                           
 - 🧪 technology                             
 - 🖌️ design
 - 🌎 travel
