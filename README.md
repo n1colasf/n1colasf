@@ -89,12 +89,12 @@ If you think I can help you to achive your idea to become a reality, feel free t
   <li>🍷 Wine</li>
   <li>📖 Books</li>
   <li>🎲 Board games</li>
-</ul>
-     
+</ul>   
 </details>
+<br/>
 
-### visit my web [nicolasf.uy](https://nicolasf.uy)
-
+## visit my web [nicolasf.uy](https://nicolasf.uy)
+ 
 
 
 
