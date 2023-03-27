@@ -68,11 +68,13 @@ Willing and prepared to learn and absorb knowledge that allows me to develop pro
     <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
  <br/>
  <br/>
- <h4>Want to learn soon:</h4>
+<details open>
+<summary><h4>Want to learn soon:</h4></summary>
      <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
      <img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
      <img align="left" alt="Rails" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
      <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+ </details>
 </details>
 <br/>
 <br/>
