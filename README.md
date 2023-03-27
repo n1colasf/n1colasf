@@ -5,7 +5,7 @@
 
 <details open>
  <summary><h3>About me:</h3></summary>
-Architect graduated in 2017 in Universidad ORT Uruguay, and currently finishing my Programmer Analyst degree. I'm enthusiastic about architecture and fascinated by the possibilities of programming. Design, architecture and technology have always been points of great interest to me. <br/>
+Architect graduated in 2017 in Universidad ORT Uruguay, and currently finishing my Programmer Analyst degree. I'm enthusiastic about architecture and fascinated by the possibilities of programming. Design, architecture and technology have always been points of great interest to me. Can't wait to see what's next!<br/>
 Willing and prepared to learn and absorb knowledge that allows me to develop professional activity with excellence.
 If you think I can help you to achive your idea to become a reality, feel free to contact me!
 </details>
@@ -78,7 +78,7 @@ If you think I can help you to achive your idea to become a reality, feel free t
 </details>
 <br/>
 <br/>
-<details open>
+<details>
  <summary><h3>I'm passionate about:</h3></summary>
  <ul>
   <li>🏛️ Architecture</li>
