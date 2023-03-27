@@ -49,7 +49,7 @@ If you think I can help you to achive your idea to become a reality, feel free t
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
  <img align="left" alt="JetBrains" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
 <img align="left" alt="IntelliJ" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-<img align="left" alt="NetBeans" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
+ <img align="left" alt="NetBeans" width="25px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
  <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <br/>
@@ -91,7 +91,6 @@ If you think I can help you to achive your idea to become a reality, feel free t
   <li>🎲 Board games</li>
 </ul>   
 </details>
-<br/>
 
 ## visit my web [nicolasf.uy](https://nicolasf.uy)
  
