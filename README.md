@@ -1,18 +1,19 @@
 ![fondo](/fondo.png)
-## Architect 👷‍♂️ and <i>(soon)</i> Programmer Analyst 👨‍💻
+# Architect 👷‍♂️ and <i>(soon)</i> Programmer Analyst 👨‍💻
 
-**`( Architecture / Design & Marketing / Software Development )`**
+### **`( Architecture / Design & Marketing / Software Development )`**
 
 <details open>
- <summary><h3>🗣 About me:</h3></summary>
+ <summary><h2>💬 About me:</h2></summary>
 Architect graduated in 2017 in Universidad ORT Uruguay, and currently finishing my Programmer Analyst degree. I'm enthusiastic about architecture and fascinated by the possibilities of programming. Design, architecture and technology have always been points of great interest to me. Can't wait to see what's next!<br/>
 Willing and prepared to learn and absorb knowledge that allows me to develop professional activity with excellence.
 If you think I can help you to achieve your idea to become a reality, don't hesitate to contact me!
 </details>
 
 <details open>
-<summary><h3>🛠️ Languages and tools:</h3></summary>
-<h5>Languages</h5>
+<summary><h2>🧰 Languages and tools:</h2></summary>
+These are the IT skills I can work, and feel comfortable to work with. I'm always trying to improve my skills and learn some useful new language, software, or service. 
+<h4>Languages:</h4>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -23,7 +24,7 @@ If you think I can help you to achieve your idea to become a reality, don't hesi
 <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br/>
-<h5>Libraries and frameworks</h5>
+<h4>Libraries and frameworks:</h4>
 <img align="left" alt=".NET" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
 <img align="left" alt=".NET Core" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -39,14 +40,13 @@ If you think I can help you to achieve your idea to become a reality, don't hesi
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
  <img align="left" alt="Jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <br/>
-<h5>Services and IDE's</h5>
+<h4>Services and IDE's:</h4>
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
  <img align="left" alt="JetBrains" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
-<img align="left" alt="IntelliJ" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
  <img align="left" alt="NetBeans" width="25px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
  <img align="left" alt="SQL Server" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" 
@@ -57,7 +57,7 @@ If you think I can help you to achieve your idea to become a reality, don't hesi
  <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <br/>
-<h5>Design and productivity software</h5>
+<h4>Design and productivity software:</h4>
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 <img align="left" alt="Premiere Pro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
@@ -72,20 +72,17 @@ If you think I can help you to achieve your idea to become a reality, don't hesi
    <img align="left" alt="Confluence" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
     <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
  <br/>
- <br/>
-<details open>
-<summary><h5>Want to learn soon:</h5></summary>
+ <h5>Want to learn soon:</h5>
  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
      <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
      <img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
      <img align="left" alt="Rails" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
      <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
- </details>
 </details>
 <br/>
 <br/>
 <details open>
- <summary><h3>❤️‍🔥 I'm passionate about:</h3></summary>
+ <summary><h2>❤️‍🔥 I'm passionate about:</h2></summary>
  <ul>
   <li>🏛️ Architecture</li>
   <li>🧪 Technology </li>
@@ -98,7 +95,7 @@ If you think I can help you to achieve your idea to become a reality, don't hesi
 </ul>   
 </details>
 
-## visit my web [nicolasf.uy](https://nicolasf.uy)
+## 🌐 To know more about me, visit my web: [nicolasf.uy](https://nicolasf.uy)
  
 
 
