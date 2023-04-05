@@ -9,7 +9,8 @@ Architect graduated in 2017 in Universidad ORT Uruguay, and currently finishing 
 Willing and prepared to learn and absorb knowledge that allows me to develop professional activity with excellence.
 If you think I can help you to achieve your idea to become a reality, don't hesitate to contact me!
 </details>
-
+<br>
+<hr>
 <details open>
 <summary><h2>🧰 Languages and tools:</h2></summary>
 These are the IT skills I can work, and feel comfortable to work with. I'm always trying to improve my skills and learn some useful new language, software, or service. 
@@ -23,8 +24,8 @@ These are the IT skills I can work, and feel comfortable to work with. I'm alway
 <img align="left" alt="GO" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<br/>
-<br/>
+<br>
+<br>
 <h4>Libraries and frameworks:</h4>
 <img align="left" alt=".NET" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
 <img align="left" alt=".NET Core" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
@@ -40,8 +41,8 @@ These are the IT skills I can work, and feel comfortable to work with. I'm alway
 <img align="left" alt="Ionic" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
  <img align="left" alt="Jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-<br/>
-<br/>
+<br>
+<br>
 <h4>Services and IDE's:</h4>
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
@@ -57,8 +58,8 @@ These are the IT skills I can work, and feel comfortable to work with. I'm alway
  <img align="left" alt="GeneXus" width="30px" style="padding-right:10px;" src="https://iili.io/HNviQQj.png" />
  <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-<br/>
- <br/>
+ <br>
+ <br>
 <h4>Design and productivity software:</h4>
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
@@ -85,6 +86,7 @@ These are the IT skills I can work, and feel comfortable to work with. I'm alway
 <br/>
 <br/>
 <br/>
+<hr>
 <details open>
  <summary><h2>❤️‍🔥 I'm passionate about:</h2></summary>
  <ul>
