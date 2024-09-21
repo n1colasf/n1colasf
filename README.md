@@ -125,7 +125,7 @@ These are the IT skills I can work, and feel comfortable to work with. I'm alway
 <hr>
 </details>
 
-<details>
+<details open>
  <summary><h2>📊 Stats</h2></summary> 
 
  <div align="center">
@@ -139,6 +139,9 @@ These are the IT skills I can work, and feel comfortable to work with. I'm alway
 <hr>
 
 ## 🌐 To know more about me, visit my web: [nicolasf.uy](https://nicolasf.uy)
+
+<p align="right"><img src="https://komarev.com/ghpvc/?username=n1colasf&style=flat&color=orange" alt=""></p>
+
  
 
 
