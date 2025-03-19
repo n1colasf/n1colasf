@@ -138,11 +138,14 @@ These are the IT skills I can work, and feel comfortable to work with. I'm alway
 <br/>
 <hr>
 
-## 🌐 To know more about me, visit my web: [nicolasf.uy](https://nicolasf.uy)
+<img align="right" width="30%" alt="nicolasf.uy" src="https://github.com/user-attachments/assets/4141db92-8c8b-4e6b-a01c-3d54e500c2f7" />
 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=n1colasf&style=flat&color=orange" alt=""></p>
+## 🌐 To know more about me visit my web
+# [nicolasf.uy](https://nicolasf.uy)
 
- 
+<br />
+<p align="left"><img src="https://komarev.com/ghpvc/?username=n1colasf&style=flat&color=orange" alt=""></p>
+
 
 
 
