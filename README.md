@@ -1,4 +1,5 @@
-![fondo](/fondo.png)
+<img width="100%" height="100%" alt="fondo_github" src="https://github.com/user-attachments/assets/14ce55d4-e919-468e-92a3-b08f1afafbdf" />
+
 # Architect 👷‍♂️ and IT Analyst 👨‍💻
 
 ### **`( Architecture / Design & Marketing / Software Development )`**
