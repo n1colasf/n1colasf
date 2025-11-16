@@ -144,8 +144,8 @@ These are the IT skills I can work, and feel comfortable to work with. I'm alway
  <summary><h2>📊 Stats</h2></summary> 
 
  <div align="center">
-   <img width="400" src="https://github-readme-stats.vercel.app/api?username=n1colasf&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-   <img width="425" src="https://github-readme-streak-stats-phi-henna.vercel.app/?user=n1colasf&theme=dark&hide_border=true" />
+   <img width="380" src="https://github-readme-stats.vercel.app/api?username=n1colasf&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+   <img width="400" src="https://github-readme-streak-stats-phi-henna.vercel.app/?user=n1colasf&theme=dark&hide_border=true" />
 </div>
 
 </details>
