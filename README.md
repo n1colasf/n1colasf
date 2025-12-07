@@ -144,9 +144,12 @@ These are the IT skills I can work, and feel comfortable to work with. I'm alway
  <summary><h2>📊 Stats</h2></summary> 
  <div align="center">
    <img width="400" src="https://github-readme-stats-five-rho-75.vercel.app/api?username=n1colasf&hide_title=true&theme=dark&show_icons=true&hide_border=true&count_private=true&show=reviews,prs_merged_percentage" />
-   <img width="420" src="https://github-readme-streak-stats-phi-henna.vercel.app/?user=n1colasf&theme=dark&hide_border=true&card_height=217" />
-     <img width="400" src="https://github-readme-stats-five-rho-75.vercel.app/api/top-langs/?username=n1colasf&layout=compact&langs_count=10&hide=jupyter%20notebook,html&theme=dark&hide_border=true&hide_title=true" />
+   
+  <img width="420" src="https://github-readme-streak-stats-phi-henna.vercel.app/?user=n1colasf&theme=dark&hide_border=true&card_height=217" />
+     
+  <img width="400" src="https://github-readme-stats-five-rho-75.vercel.app/api/top-langs/?username=n1colasf&layout=compact&langs_count=10&hide=jupyter%20notebook,html&theme=dark&hide_border=true&hide_title=true" />
 </div>
+
 
 </details>
 
