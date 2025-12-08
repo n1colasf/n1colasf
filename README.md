@@ -95,7 +95,7 @@ These are the IT skills I can work, and feel comfortable to work with. I'm alway
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <img align="left" alt="Office" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Microsoft_Office_logo_%282013–2019%29.png" />
 <img align="left" alt="Slack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
-<img align="left" alt="Teams" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018–present%29.svg" />
+<img align="left" alt="Teams" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/07/Microsoft_Office_Teams_%282025–present%29.svg" />
 <img align="left" alt="Trello" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 <img align="left" alt="Confluence" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
